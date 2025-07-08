@@ -26,6 +26,10 @@ Allows users to create and use their own API keys from OpenWeatherMap to get rea
 const apiKey = 'YOUR_API_KEY_HERE';
 5. Refresh the page and enjoy the weather!
 
+## Adding Background Image
+
+Please add an image file named `background.jpg` to your project folder to use as the website's background.
+
 ## Technologies Used
 HTML5
 
